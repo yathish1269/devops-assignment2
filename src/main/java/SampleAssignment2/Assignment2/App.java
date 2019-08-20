@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Main class for Assignment2" );
+        System.out.println(" Main class for Assignment2 ");
     }
 }
